@@ -1,4 +1,4 @@
-#!/user/bin/python3
+#!/usr/bin/python3
 """ a script that starts a Flask web application and
     give some functionality to some routes
 """
